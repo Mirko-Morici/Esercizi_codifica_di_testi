@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 
+ fileproject: tt.xml
+ name: Angelo 
+-->
+<test>
+	<ciao>
+		<cc>
+	<!--</ciao> il tag ciao è padre di cc,
+    quindi deve essere chiuso dopo cc
+    --> 
+		</cc>
+    </ciao><!-- ho chiuso il tag ciao dopp il tag cc -->
+	<choice>
+		<sic>testo con errore</sic>
+    <figlio> nodo figlio di choice </figlio>
+    <fratello> nodo fratello di figlio, sic e cor </fratello>
+		<cor> testo corretto</cor>
+	</choice>
+</test>

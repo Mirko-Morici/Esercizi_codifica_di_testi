@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE TEI[
+    <!ELEMENT TEI (header, facsimile?, testo+)>
+    <!ELEMENT header (#PCDATA)>
+    <!ELEMENT facsimile (#PCDATA)>
+    <!ELEMENT testo (#PCDATA|seg)*>
+    <!ELEMENT seg (#PCDATA)>
+
+    <!ATTLIST header type CDATA "intestazione">
+    <!ATTLIST header lang NMTOKEN #IMPLIED>
+
+    <!ATTLIST facsimile source CDATA #REQUIRED>
+    <!ATTLIST facsimile ref IDREFS #IMPLIED>
+
+    <!ATTLIST testo id ID #REQUIRED>
+    <!ATTLIST testo type CDATA #IMPLIED>
+]>
+
+<TEI>
+    <header>
+        Testo header 
+    </header>
+    <facsimile source="source">
+        Testo facsimile
+    </facsimile>
+    <testo id="id_1">
+        Testo testo
+        <seg>
+            Testo seg
+        </seg>
+    </testo>
+</TEI>

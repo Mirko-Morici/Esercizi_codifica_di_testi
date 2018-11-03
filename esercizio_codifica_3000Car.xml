@@ -1,0 +1,102 @@
+<?xml version="1.0" encodinf="utf8"?>
+<!DOCTYPE="tei-lite.dtd">
+<TEI xmlns="http://www.teic.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        Codifica del di un articolo di stampa videoludica
+        <titleStmt>
+            <title>
+                Recensione Red Dead Redemption 2
+            </title>
+        <sourceDesc>
+            <p>
+                <link>
+                    https://www.everyeye.it/giochi/red-dead-redemption-2/
+                </link>
+            </p>
+        </sourceDesc>    
+    </fileDesc>
+</teiHeader>
+<text>
+    <body>
+        <title type="full">
+            <title type="main">
+                Red Dead Redemption 2 Recensione: 
+            </title>
+            <title type="sub">
+                Rockstar ci riporta nel Selvaggio West
+            </title>
+        </title>
+
+        <div n="1">
+            <p>
+                A otto anni dal lancio di Red Dead Redemption, Rockstar 
+                si presenta con un sequel destinato a diventare una pietra miliare per la storia dei videogiochi.
+            </p>
+        </div>
+
+        <div n="2">
+            <p>
+                Sconfinati e avvolgenti, gli spazi di <emph>Red Dead Redemption 2</emph> corrono incontro al giocatore e lo catturano senza scampo: 
+                un vibrare improvviso di archi, la neve che cede sotto la marcia esausta dei cavalli,
+                e già ti trovi immerso nel selvaggio West; nella frontiera virtuale meticolosamente 
+                assemblata da Rockstar Games.
+            </p>
+            <p>
+                Le prime ore di gioco sono scandite da un moto di costante meraviglia, 
+                accompagnate dal gusto della scoperta e dall'esaltazione per un racconto potente
+                e intenso. I due pilastri che sorreggono la mole monumentale della produzione sono 
+                proprio questi: la narrazione dirompente da un lato, l'impressionante densità del mondo
+                di gioco dall'altro. E se <emph>Red Dead Redemption 2</emph> può essere considerato una pietra miliare
+                del gaming, una lezione di creatività per tutta l'industria e più in generale un 
+                grande capolavoro, è soprattutto per la maestria con cui riesce ad intrecciare questi 
+                due elementi, a farli convivere e coesistere. La vera magia di Red Dead Redemption 2, 
+                in definitiva, va oltre la possibilità di scambiare qualche frase con ogni personaggio, 
+                o la bellezza imponderabile dei suoi paesaggi, e sta tutta nella capacità di fondere 
+                ambiente, racconto e gameplay.
+            </p>
+        </div>
+
+        <div n="3">
+            <p>
+               Il nuovo kolossal di Rockstar, grazie ad una straordinaria alchimia, 
+               riesce ad essere un'immensa avventura interattiva, una delle migliori storie mai 
+               raccontate in un videogame, e al tempo stesso il più incredibile modello di "mondo aperto"
+               creato finora. <emph>Red Dead Redemption 2</emph> è l'intensità narrativa di The Last Of Us che incontra 
+               l'estensione di <emph>Grand Theft Auto</emph>; è un modo tutto nuovo di intendere uno spazio virtuale, 
+               e una prova di coraggio sbattuta in faccia alle regole di mercato. Un gioco che lascia un 
+               segno indelebile, mette un punto, e forse riesce persino a fare qualcosa in più: a ribadire 
+               che il videogioco può trasmettere emozioni e narrare storie in maniera più trascinante ed 
+               efficace di qualsiasi altro medium. <emph>Red Dead Redemption 2<emph>, insomma, non è soltanto un titolo 
+               imprescindibile: è una delle migliori pagine del nostro manifesto di videogiocatori. 
+            </p>
+        </div>
+
+        <div n="4">
+            <title xml:lang="en">
+                The land of the free
+            </title>
+            <p>
+                La ferrovia sfreccia lungo le distese di<place><settlement>New Hanover</settlement></place> come una cicatrice di metallo
+                e di fumo, facendo riecheggiare nella valle il suo messaggio di velocità e progresso. 
+                Le locomotive arrivano tronfie e vibranti, mostri metallici nel cui ventre si ammassano 
+                i signorotti di <place><settlement>Saint Denis</place></settlement> con i loro gilet gessati e le bombette sulla testa, e si 
+                fermano a <place><settlement>Valentine</place></settlement>, cittadina di vaccari e allevatori che sorge proprio al centro della
+                vallata. C'è una sola strada, a <place><settlement>Valentine<place><settlement>, ricoperta di fanghiglia: passa accanto al 
+                saloon e all'emporio generale, alla piccola banca di provincia ed all'ufficio dello 
+                sceriffo, e poi torna a perdersi nel verde, incontro a praterie interminabili, 
+                sorvegliate dal profilo imponente delle montagne.
+            </p>
+            <p>
+            È qui, proprio al centro della mappa di gioco, che <emph>si incontrano Est e Ovest</emph>, passato e 
+            futuro, frontiera e civiltà. In questo luogo fatto di contrasti si rivela insomma la poetica 
+            di <emph>Red Dead Redemption 2</emph>, impegnato a raccontare la fine di un'epoca e la caduta di un mito. L'anno 
+            è il <date>1899</date>, e mentre il secolo si spegne, con lui muore anche la leggenda del selvaggio west. 
+            L'America ha deciso che non c'è più posto per banditi e pistoleri, per i cowboy, i cercatori d'oro 
+            ed i nativi americani, ricacciati nelle loro riserve: attraverso le strade ferrate si diffonde un nuovo 
+            modello di modernità e sviluppo, pronto a schiacciare per sempre il sogno di una libertà senza compromessi.
+            </p>
+
+
+    <body/>
+</text>
